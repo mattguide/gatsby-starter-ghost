@@ -1,10 +1,12 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://mattguide.duckdns.org:2368",
+    "contentApiKey": "1ab1d3c81e3f5e2dd7ed8044ef"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "http://mattguide.duckdns.org:2368",
+    "contentApiKey": "1ab1d3c81e3f5e2dd7ed8044ef"
   }
 }
+
+
